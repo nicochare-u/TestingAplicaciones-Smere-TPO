@@ -1,7 +1,7 @@
 # Testing de Aplicaciones: Trabajo Práctico Obligatorio
 
 ## Nombre del equipo
-Smere
+- Smere
 
 ## Integrantes
 - Chareca Nicolás 1152335
