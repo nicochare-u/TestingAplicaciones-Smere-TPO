@@ -5,7 +5,3 @@ def test_hello_world():
 
 def test_hello_world_2():
     assert 5 == "5"
-
-
-# falta instalar pytest y selenium en el venv,
-# para probar las funciones
