@@ -41,4 +41,4 @@ class TestPE1603REGISTERINVPASS():
         self.driver.find_element(
             By.CSS_SELECTOR, "p:nth-child(13) > input").click()
         textResult = self.driver.find_element(By.XPATH, "/html/body/p").text
-        assert textResult == "Registered Successfully"
+        assert textResult != "Registered Successfully"
